@@ -1,0 +1,77 @@
+**********************************************
+/*                 DISCIPLINAS             */*
+**********************************************
+Portugues                                    *
+Lógica e Estatística                         *
+Direito Administrativo                       *
+Fundamentos de Microeconomia e Macroeconomia *
+Ciencia de dados                             *
+Segurança da Informação                      *
+Engenharia de Software                       *
+Infraestrutura em TI                         *
+Banco de Dados                               *
+Gestão em TI                                 *
+Discursiva                                   *
+**********************************************
+
+***********************************************
+/*                 SEGUNDA                  */*
+***********************************************
+Portugues                                     *
+Ciencia de dados                              *
+Gestão em TI                                  *
+Segurança da Informação                       *
+***********************************************
+
+***********************************************
+/*                  TERÇA                   */*
+***********************************************
+Lógica e Estatística                          *
+Discursiva                                    *
+Engenharia de Software                        *
+Infraestrutura em TI                          *
+***********************************************
+
+***********************************************
+/*                 QUARTA                   */*
+***********************************************
+Engenharia de Software                        *
+Direito Administrativo                        *
+Banco de Dados                                *
+Portugues                                     *
+***********************************************
+											  *
+***********************************************
+/*                 QUINTA                   */*
+***********************************************
+Fundamentos de Microeconomia e Macroeconomia  *
+Engenharia de Software                        *
+Infraestrutura em TI                          *
+Ciencia de dados                              *
+***********************************************
+
+***********************************************
+/*                   SEXTA                  */*
+***********************************************
+Portugues                                     *
+Gestão em TI                                  *
+Engenharia de Software                        *
+Fundamentos de Microeconomia e Macroeconomia  *
+***********************************************
+
+***********************************************
+/*                   SABADO                 */*
+***********************************************
+Lógica e Estatística                          *
+Segurança da Informação                       *
+Ciencia de dados                              *
+Infraestrutura em TI                          *
+***********************************************
+
+***********************************************
+/*                   DOMINGO                */*
+***********************************************
+Revisão                                       *
+Discursiva                                    *
+Simulado                                      *
+***********************************************
