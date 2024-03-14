@@ -1,1 +1,49 @@
-organização estudos bacen. 
+***MicroEconomia***
+
+001. (FCC/ALAP/ANALISTA/2020/ADAPTADA) Julgue: A Economia estuda a forma pela qual uma sociedade organiza a sua produção. 
+Em outras palavras, Economia é a ciência social que estuda a produção, a circulação e o consumo dos bens e serviços aplicados na satisfação das necessidades humanas. 
+Certo.
+
+002. (FCC/ALAP/ANALISTA/2020/ADAPTADA) Julgue: A distribuição do produto nacional é parte central do problema econômico. 
+Em outras palavras, a distribuição da riqueza produzida também é um aspecto fundamental nas decisões econômicas de uma sociedade, considerando os seus recursos escassos e as necessidades ilimitadas de sua população. Certo.
+
+003. (FCC/ARSETE/ECONOMISTA/2016) Segundo Gilles-Gaston Granger, a Economia é, “simultaneamente e confusamente, ciência das coisas, ciência das ações e ciência das estruturas sociais.” (GRANGER, G. G. Méthodologie économique. 1955, p.2). A citação acima é explicada por: 
+
+a) o economista realiza experimentos perfeitamente controlados, atingindo, em suas previsões, a precisão das ciências da natureza. 
+b) o conceito de Economia exclui a noção de que esta é uma ciência que trata dos produtos da atividade humana. 
+c) o conteúdo da Economia pode variar segundo o enfoque de cada autor ou escola: apresentase, por exemplo, como amplo sistema contábil que descreve o circuito dos produtos, em estrita ligação com o funcionamento de uma sociedade. 
+d) a Economia propõe uma abordagem cujas relações essencialmente determinadas por elementos objetivos, externos ao ser humano. 
+e) a Economia não possui caráter científico. Como uma ciência social e dinâmica, inexiste consenso entre as escolas a respeito da teoria econômica, com cada uma delas com sua visão distinta e até oposta às demais. 
+
+Vamos agora apontar os erros das demais alternativas: 
+a) Errada. De modo distinto das ciências exatas, em que o pesquisador consegue criar experimentos em um sistema controlado e extrair conclusões a partir dele, na ciência econômica, de cunho social, o economista não dispõe de uma sociedade experimental em que possa aplicar métodos científicos e alcançar previsões acuradas 
+b) Errada. A Economia é uma ciência social que, essencialmente, estuda o comportamento humano diante do problema da escassez 
+d) Errada. A Economia é uma ciência social com elementos objetivos e elementos subjetivos. 
+e) Errada. A Economia é sim uma ciência, com natureza social que, essencialmente, estuda o comportamento humano diante do problema da escassez 
+
+Letra c.
+
+004. (CESPE/TCE-PA/AUDITOR/2016) A respeito dos conceitos fundamentais de microeconomia, julgue o item a seguir. A Economia é a ciência social na qual se estuda como os indivíduos tomam decisões sob a hipótese de que os recursos, se produzidos e distribuídos com eficiência, serão suficientes para suprir todas as necessidades da coletividade. 
+
+R: A Economia é uma ciência social e o seu princípio basilar é a chamada lei da escassez, que nos diz que os recursos produtivos (fatores de produção) são escassos, mas as necessidades humanas são ilimitadas. A ideia-chave na Economia é necessidade de eficiência, ou seja, maximizar a produção de bens e serviços, dadas as restrições colocadas pela quantidade limitada de fatores de produção. Assim, a Economia, conhecida como ciência da escassez, estuda como os indivíduos tomam decisões sob a hipótese de que os recursos são escassos, em um contexto em que os desejos e necessidades humanos são ilimitados. Em suma, determinada restrição orçamentária sempre irá impedir que um indivíduo adquira tudo o que necessita/deseja. 
+Errado.
+
+005. (CESPE/ANAC/ANALISTA/2012) Julgue o item a seguir, acerca dos fatores de produção. Os fatores de produção podem ser classificados em naturais, trabalho e capital, sendo este último dividido em físico e humano. O capital físico é formado pelos recursos manufaturados utilizados na produção, pela educação e pelo conhecimento incorporado na força de trabalho. 
+
+R: Realmente, podemos dividir os insumos de produção em naturais, trabalho e capital, sendo esse ainda dividido em físico e humano. Entretanto, a educação, ou seja, o conhecimento incorporado na força de trabalho, é um capital humano, e não um capital físico, tendo uma natureza bastante subjetiva de valoração em termos de geração de capacidade produtiva. Errado.
+
+006. (IADES/HEMOCENTRO-DF/ANALISTA/2017) Considerando que a Economia é uma ciência social fundamental para o estudo da escassez e dos problemas dela decorrentes, assinale a alternativa correta.
+
+a) A organização política de uma sociedade afeta a forma como ela escolhe os próprios representantes e elabora as normas que regularão as relações sociais, contudo o desenvolvimento das atividades econômicas de produção e consumo não é afetado por ela, dependendo exclusivamente do sistema econômico vigente. 
+b) O problema central da economia refere-se ao emprego de recursos econômicos escassos de forma a gerar o maior produto possível sem, no entanto, ocupar-se da forma como esses bens e serviços são distribuídos na sociedade. 
+c) A fim de atender às necessidades humanas ilimitadas, a economia promove a utilização máxima dos recursos disponíveis na produção de bens e serviços que agregam maior valor econômico. 
+d) O emprego dos escassos recursos econômicos não representa um problema para a Economia, visto que não há usos alternativos para eles. 
+e) A Economia tem como objeto de estudo a questão da escassez, ou seja, a forma como a sociedade decide empregar recursos escassos entre usos alternativos.
+
+Como os recursos são escassos e nossas necessidades ilimitadas, a Economia tem por objeto de estudo a forma de alocação destes recursos entre usos alternativos. 
+Vamos agora avaliar as demais alternativas: 
+a) Errada. As atividades econômicas são diretamente afetadas pelas escolhas dos representantes políticos. Note o efeito das eleições e das suas expectativas na bolsa de valores, na cotação do dólar e na economia em geral. 
+b) Errada. A Economia tem por objeto de estudo a forma de alocação dos recursos limitados entre usos alternativos para atender as necessidades ilimitadas. 
+c) Errada. Não se pode afirmar que a economia promove a utilização máxima dos recursos disponíveis na produção de bens e serviços que agregam maior valor econômico, pois, se assim fosse, somente bens com maior valor agregado seriam produzidos, em detrimento das commodities, por exemplo. 
+d) Errada. Na verdade, temos mais possibilidades de emprego do que recursos. 
+Letra e.
