@@ -1,0 +1,9 @@
+-- Testes de Software
+01. (CESPE/INPI/ANALISTA DE DESENVOLVIMENTO DE SISTEMAS/2013) No teste de integração, verifica-se se o funcionamento em conjunto dos componentes do sistema, se são chamados corretamente e se a transferência de dados acontece no tempo correto, por meio de suas interfaces. 
+R: O teste de integração visa provocar falhas associadas às interfaces entre os módulos quando esses são integrados para construir a estrutura do software que foi estabelecida na fase de projeto. 
+Certo.
+
+02. (CESPE/MPU/ANALISTA JUDICIÁRIO – SISTEMAS/2013) Testes funcionais são aplicados para identificar não conformidades entre o programa e seus requisitos. 
+
+A técnica de caixa preta (funcional) testa pré-condições avaliando o comportamento das funcionalidades conforme os requisitos sem se preocupar com a lógica interna. Logo eu estou buscando nos testes funcionais não conformidades entre as funcionalidades do software e os requisitos. 
+Certo.
