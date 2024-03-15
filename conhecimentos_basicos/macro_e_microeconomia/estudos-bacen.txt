@@ -47,3 +47,55 @@ b) Errada. A Economia tem por objeto de estudo a forma de alocação dos recurso
 c) Errada. Não se pode afirmar que a economia promove a utilização máxima dos recursos disponíveis na produção de bens e serviços que agregam maior valor econômico, pois, se assim fosse, somente bens com maior valor agregado seriam produzidos, em detrimento das commodities, por exemplo. 
 d) Errada. Na verdade, temos mais possibilidades de emprego do que recursos. 
 Letra e.
+
+007. (CESPE/MPU/ANALISTA/2010) Acerca de economia ambiental, julgue o item a seguir. 
+Para os economistas ambientais, não há problema de escassez absoluta de recursos naturais, e sim de escassez relativa. Portanto, desse ponto de vista, admite-se que determinados tipos de recursos possam se esgotar temporariamente. 
+
+Os economistas ambientais realmente diferenciam esses dois conceitos. Veja: Escassez absoluta: refere-se ao esgotamento propriamente dito dos estoques desses recursos. Escassez Relativa: refere-se aos padrões insustentáveis de produção e consumo, existindo uma tendência de esgotamento dos recursos por haver excesso de consumo em relação ao que é produzido. Para os ambientalistas, em relação aos recursos naturais, existe a necessidade de redução do seu consumo para evitar o seu esgotamento.
+Certo.
+
+008. (FCC/ARSETE/ECONOMISTA/2016) Considere os seguintes problemas básicos da Economia: 
+I – O que produzir. 
+II – Como produzir. 
+III – Quanto produzir. 
+IV – Para quem produzir.
+
+A existência ilimitada de recursos utilizáveis tornaria frágil o caráter “econômico” dos problemas contidos em 
+
+a) I e IV, apenas.
+b) I, II e III, apenas. 
+c) I, II, III e IV. 
+d) II e III, apenas.
+e) III e IV, apenas.
+
+Um dos focos da ciência econômica é avaliar como são administrados os recursos escassos diante de necessidades ilimitadas, ou seja, em decorrência do problema da escassez, a sociedade precisa fazer escolhas que envolvem decidir o que produzir, quanto produzir, como produzir e para quem produzir. 
+Letra c.
+
+009. (CESPE/TCE-PA/AUDITOR/2016) A respeito dos conceitos fundamentais de microeconomia, julgue o item a seguir.
+
+O custo de oportunidade será o mesmo para qualquer pessoa que opte por participar do programa de trainee de uma grande empresa em vez de trabalhar em uma empresa de menor porte que ofereça melhor remuneração. 
+
+Vale lembrar que o custo de oportunidade é aquele custo que representa o fato de ter escolhido uma opção em detrimento de outra. No caso apresentado pela questão, o custo de oportunidade é representado pela satisfação que a pessoa deixa de obter ao receber um salário menor, mas trabalhando em uma empresa com maior potencial de crescimento pessoal. Entretanto, merece destaque o fato de que a perda de satisfação não é igual para as pessoas, ou seja, os indivíduos possuem utilidades marginais da renda diferentes. Nessa toada, não podemos afirmar que o custo de oportunidade seria o mesmo para qualquer pessoa. 
+Errado.
+
+010. (CESPE/TCU/AUDITOR/2007) Considerando-se que o problema da escolha em um ambiente de escassez constitui o cerne da análise econômica, julgue os itens subsequentes. 
+Nas economias de mercado, a especialização, fundamentada na divisão do trabalho, apesar de aumentar o custo de oportunidade dos bens, promove a alocação eficiente dos recursos. 
+
+A primeira parte da afirmativa está correta, pois a especialização fundamentada na divisão do trabalho, numa economia de mercado, realmente aumenta o custo de oportunidade dos bens (e serviços). 
+
+Imagine você um médico neurologista, extremamente especializado em cirurgias complexas, que seja muito bem remunerado pelas várias operações que efetua. Um dia, quando ele está indo ao hospital fazer uma cirurgia delicadíssima (e muito bem remunerada) sua esposa liga e diz que o reator da lâmpada da cozinha precisa ser trocado e ela não sabe fazê-lo. E então o que ele faz? Volta para casa e deixa de realizar a cirurgia ou chama um eletricista para fazer esse reparo no sistema de iluminação de casa?
+Claro que chama o eletricista, pois o custo de oportunidade face ao nível de especialização que ele possui é elevadíssimo para ele. Até aqui beleza! Mas agora vem o erro da afirmativa... a alocação eficiente dos recursos não necessariamente é promovida. Na verdade, aproveitando esse exemplo, nada garante que a esposa do médico compre o reator correto e contrate o eletricista mais adequado a esse serviço de reparação no sistema de iluminação da casa.
+Errado.
+
+011. (FCC/ALAP/ANALISTA/2020/ADAPTADA) Julgue: 
+A fronteira de possibilidades de produção ilustra as restrições econômicas de uma sociedade. 
+
+A fronteira de possibilidades de produção apresenta a escassez de recursos por meio da apresentação do limite máximo da capacidade produtiva de uma unidade produtiva ou de uma economia. Assim, diante dessa limitação será necessário fazer escolhas entre as opções de produção. 
+Certo.
+
+012. (CESPE/SLU-DF/ANALISTA/2019) Julgue o item seguinte, a respeito da teoria microeconômica da produção. Um ponto da fronteira de possibilidades de produção em que dois bens são produzidos é mais eficiente do que um ponto em que um único bem é produzido. 
+
+Tenha em mente que a CPP abrange todos aqueles pontos em que a economia está operando em sua capacidade máxima, ou seja, em que está trabalhando com eficiência, já que não temos recursos ociosos. Confira um exemplo hipotético:
+
+Note que nos pontos de A, B, C, D e E estamos sobre a CPP. Note ainda que no ponto A só vestuários são produzidos e, no ponto E, só alimentos são produzidos. Assim, nesses pontos, há especialização completa, mas há eficiência porque estamos sobre a CPP. Guarde que somente temos ineficiência quando estivermos num ponto dentro da CPP, como o ponto F, em que a economia está produzindo menos do que poderia se utilizasse toda sua capacidade. 
+Errado.
