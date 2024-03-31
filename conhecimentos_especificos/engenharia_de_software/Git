@@ -1,0 +1,9 @@
+`git push`: Este comando é utilizado para enviar as alterações feitas no repositório local para o repositório remoto. Ele atualiza o repositório remoto com as alterações feitas localmente.
+
+`git commit`: Este comando é utilizado para registrar as alterações feitas no repositório local. Ele prepara as alterações para serem enviadas para o repositório remoto, mas não as envia diretamente. Antes de enviar as alterações para o repositório remoto, é necessário usar o comando `git push`.
+
+`git pull`: Este comando é utilizado para trazer as atualizações do repositório remoto para o repositório local. Ele combina as alterações do repositório remoto com o repositório local.
+
+`git add`: Este comando é utilizado para adicionar as alterações feitas nos arquivos ao índice do Git, preparando-os para serem registrados com `git commit`.
+
+`git merge`: Este comando é utilizado para mesclar as alterações de uma branch para outra. Ele combina as alterações de uma branch com a branch atual, criando um novo commit de mesclagem.
