@@ -7,3 +7,7 @@
 `git add`: Este comando é utilizado para adicionar as alterações feitas nos arquivos ao índice do Git, preparando-os para serem registrados com `git commit`.
 
 `git merge`: Este comando é utilizado para mesclar as alterações de uma branch para outra. Ele combina as alterações de uma branch com a branch atual, criando um novo commit de mesclagem.
+
+`git clone`: Permite baixar o repositório do GitHub para o computador do usuário.
+
+`git init`: É utilizado para inicializar um novo repositório Git, criando um novo subdiretório chamado .git que contém todos os metadados necessários para o versionamento dos arquivos. Isto é, ele prepara um novo espaço para que você possa começar a versionar seu projeto com o Git
