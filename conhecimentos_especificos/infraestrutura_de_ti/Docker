@@ -1,0 +1,29 @@
+A. docker attach: é usado para anexar o fluxo padrão de entrada, saída e erro do terminal a um contêiner em execução. Isso permite que você visualize sua saída em andamento ou controle-o interativamente, como se os comandos estivessem sendo executados diretamente no seu terminal.
+
+B. docker node ls: lista todos os nós que o gerenciador do Docker Swarm conhece. Você pode filtrar usando a opção -f ou --filter. Consulte a seção de filtragem para obter mais informações sobre as opções de filtro disponíveis.
+
+C. docker pull: é o comando usado para baixar uma imagem do Docker Hub ou de um registro privado.
+
+D. docker rmi: é usado para remover uma ou mais imagens do nó host. Se uma imagem tiver várias tags, usar este comando com a tag como parâmetro remove apenas a tag. Se a tag for a única para a imagem, tanto a imagem quanto a tag serão removidas. Isso não remove imagens de um registro.
+
+E. docker rm / redis: é usado para remover um contêiner chamado “redis” .
+
+
+===================================================================================
+
+docker build`: Comando para construir uma imagem Docker.
+
+- `-t node-js`: Especifica o nome da imagem (node-js).
+
+- `.`: Indica o caminho para o contexto de construção, que é o diretório atual (onde o Dockerfile está localizado).
+
+O comando completo está dizendo ao Docker para construir uma imagem com o nome `node-js` usando as instruções no Dockerfile encontrado no diretório atual.
+
+
+- `docker cp -t node-js .`: Este comando é usado para copiar arquivos entre contêineres e o sistema de arquivos do host, não para construir imagens.
+
+- `docker push -t node-js .`: Este comando é usado para enviar imagens para um registro remoto (como Docker Hub), não para construir imagens localmente.
+
+- `docker image -t node-js .`: A opção `-t` não é reconhecida como um argumento válido para o comando `docker image`.
+
+- `docker pull -t node-js .`: Este comando é usado para puxar imagens de um registro remoto, não para construir imagens localmente.
