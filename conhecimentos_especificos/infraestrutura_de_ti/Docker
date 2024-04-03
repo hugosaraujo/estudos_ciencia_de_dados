@@ -10,6 +10,7 @@ E. docker rm / redis: é usado para remover um contêiner chamado “redis” .
 
 
 ===================================================================================
+===================================================================================
 
 docker build`: Comando para construir uma imagem Docker.
 
@@ -27,3 +28,20 @@ O comando completo está dizendo ao Docker para construir uma imagem com o nome 
 - `docker image -t node-js .`: A opção `-t` não é reconhecida como um argumento válido para o comando `docker image`.
 
 - `docker pull -t node-js .`: Este comando é usado para puxar imagens de um registro remoto, não para construir imagens localmente.
+
+===================================================================================
+===================================================================================
+
+No mundo da virtualização, um container é uma unidade padrão de software que empacota o código e todas as suas dependências para que a aplicação rode de forma rápida e confiável de um ambiente de computação para outro.
+
+O Docker é uma plataforma popular para a criação e gerenciamento de containers. Um Dockerfile é um script composto por instruções em camadas para construir uma imagem Docker, que é um modelo leve e portátil com tudo o que é necessário para rodar uma aplicação.
+
+O comando docker commit é usado para criar uma nova imagem a partir das mudanças de um container já existente, não para construir uma nova imagem a partir de um Dockerfile. Para construir uma imagem Docker a partir de um Dockerfile corretamente escrito, o comando correto seria docker build, seguido de um ponto (.) se o Dockerfile estiver no diretório atual ou do caminho para o diretório onde o Dockerfile está localizado.
+
+Portanto, a maneira correta de construir uma imagem a partir de um Dockerfile chamado example-java-df seria algo semelhante a:
+
+docker build -t example-java-df .
+
+Onde -t é usado para nomear a imagem e o ponto indica o contexto de construção, geralmente o diretório onde o Dockerfile está localizado.
+
+Entendendo esses conceitos e a função de cada comando, fica claro que o comando apresentado na questão estava incorreto para o objetivo de construir uma imagem a partir de um Dockerfile, e por isso a alternativa correta é "Errado"
