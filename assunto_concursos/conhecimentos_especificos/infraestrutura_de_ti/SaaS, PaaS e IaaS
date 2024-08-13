@@ -1,0 +1,20 @@
+Saas (Software as a Service), PaaS (Platform as a Service) e IaaS (Infrastructure as a Service) são modelos de computação em nuvem que oferecem diferentes níveis de serviços e funcionalidades. Aqui estão as principais diferenças entre eles:
+
+SaaS (Software as a Service):
+
+No modelo SaaS, os usuários acessam aplicativos hospedados na nuvem através da internet.
+Os aplicativos são totalmente gerenciados pelo provedor de serviços em nuvem, incluindo manutenção, atualizações e segurança.
+Exemplos comuns de SaaS incluem serviços de e-mail (como Gmail), plataformas de gerenciamento de relacionamento com o cliente (CRM), ferramentas de produtividade (como Google Docs, Microsoft Office 365) e aplicativos de colaboração.
+PaaS (Platform as a Service):
+
+No modelo PaaS, os desenvolvedores têm acesso a plataformas de desenvolvimento de software hospedadas na nuvem.
+Essas plataformas fornecem ferramentas e ambientes de desenvolvimento que facilitam a criação, teste e implantação de aplicativos.
+Os provedores de PaaS geralmente gerenciam o ambiente de execução, incluindo servidores, armazenamento e rede, enquanto os desenvolvedores se concentram no desenvolvimento do software.
+Exemplos de PaaS incluem Google App Engine, Microsoft Azure App Service e Heroku.
+IaaS (Infrastructure as a Service):
+
+No modelo IaaS, os usuários têm acesso a recursos de infraestrutura de TI virtualizados, como servidores, armazenamento e rede, hospedados na nuvem.
+Os usuários têm controle total sobre os sistemas operacionais, aplicativos e configurações de rede dentro do ambiente de nuvem.
+Os provedores de IaaS são responsáveis pelo gerenciamento da infraestrutura física subjacente, como servidores, armazenamento e rede, enquanto os usuários são responsáveis pela configuração, manutenção e operação de seus próprios sistemas e aplicativos.
+Exemplos de provedores de IaaS incluem Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) e DigitalOcean.
+Resumidamente, enquanto o SaaS fornece aplicativos prontos para uso, o PaaS oferece plataformas para desenvolver e implantar aplicativos personalizados, e o IaaS fornece recursos de infraestrutura virtualizada para criar e gerenciar ambientes de TI personalizados.

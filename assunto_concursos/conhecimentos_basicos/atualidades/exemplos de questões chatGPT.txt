@@ -1,0 +1,19 @@
+    Política e Sociedade:
+        Contexto: Considerando as recentes mudanças políticas no país e os debates em torno da estabilidade democrática, gostaríamos de saber sua opinião sobre o assunto.
+        Pergunta: Como você avalia o impacto das recentes reformas políticas na estabilidade democrática do país?
+
+    Economia e Desenvolvimento Sustentável:
+        Contexto: Diante dos desafios econômicos globais, como a pandemia e as mudanças climáticas, queremos entender suas visões sobre as perspectivas econômicas do Brasil e o papel do desenvolvimento sustentável.
+        Pergunta: Qual é a sua visão sobre as perspectivas econômicas do Brasil para os próximos cinco anos, considerando os desafios globais, como a pandemia e as mudanças climáticas?
+
+    Educação e Tecnologia:
+        Contexto: Com o crescente uso da tecnologia na educação, é importante refletir sobre seus impactos e potenciais. Gostaríamos de ouvir suas ideias sobre o assunto.
+        Pergunta: Em sua opinião, quais são os benefícios e desafios do uso da tecnologia na educação? Como você vê o papel da tecnologia na melhoria do acesso à educação de qualidade?
+
+    Saúde e Energia:
+        Contexto: Considerando a importância da transição para energias renováveis para a saúde pública e o meio ambiente, queremos conhecer suas opiniões sobre o tema.
+        Pergunta: Qual é a importância do investimento em energias renováveis para a saúde pública e o meio ambiente? Como essa transição energética poderia ser acelerada?
+
+    Relações Internacionais e Cultura:
+        Contexto: Em um mundo cada vez mais globalizado, é fundamental refletir sobre o papel do Brasil no cenário internacional e as questões relacionadas à diversidade cultural.
+        Pergunta: Como você vê o papel do Brasil no cenário internacional atual, especialmente em relação a questões como comércio, diplomacia e direitos humanos?
